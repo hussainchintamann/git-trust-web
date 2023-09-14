@@ -1,0 +1,847 @@
+.top{
+    height: 80px;
+    display: flex;
+    background-color: blue ;
+}
+.line{
+    text-align: ;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 5px;
+    left: 400px;
+}
+.logo1{
+    position: absolute;
+    left: 140px;
+    top: 30px;
+}
+.logo2{
+    position: absolute;
+    left: 180px;
+    top: 30px;
+}
+.logo3{
+    position: absolute;
+    left: 220px;
+    top: 30px;
+}
+.logo4{
+    position: absolute;
+    left: 260px;
+    top: 30px;
+}
+.logo5{
+    position: absolute;
+    left: 300px;
+    top: 30px;
+}
+.button1{
+    position: absolute;
+    left: 1050px;
+    top: 28px;
+    cursor: pointer;
+}
+.button1:hover{
+    background-color: royalblue;
+    color: white; 
+    border: 1px solid royalblue;
+    border-radius: 10px;
+   }
+
+.button2{
+    position: absolute;
+    left: 1135px;
+    top: 28px;
+    cursor: pointer;
+    
+}
+.button2:hover{
+    background-color: royalblue;
+    color: white; 
+    border: 1px solid royalblue;
+    border-radius: 10px;
+   }
+.button3{
+    position: absolute;
+    left: 1050px;
+    top: 52px;
+    cursor: pointer;
+}
+.button3:hover{
+    background-color: royalblue;
+    color: white; 
+    border: 1px solid royalblue;
+    border-radius: 10px;
+   }
+.medium{
+    height: 70px;
+    background-color: white;
+    position: ;
+    
+    
+}
+.logo6{
+
+    position: absolute;
+    left: 120px;
+}
+.home{
+     
+    position: relative ;
+    left: 480px ;
+    top: 20px;
+    border:none;
+    font-size: 12px;
+    background-color: white;
+    
+    
+
+}
+.home:hover{
+    background-color: royalblue;
+    color: white;
+    border-radius:50px;
+    border: 2px solid royalblue;
+    padding: 5px;
+    width: 100px;
+    height: 30px;
+    
+    
+}
+.about{
+    position: relative;
+    left: 500px ;
+    top:20px;
+    border:none;
+    font-size: 12px;
+    background-color: white;
+}
+.about:hover{
+    background-color: royalblue;
+    color: white;
+    border-radius:50px;
+    border: 2px solid royalblue;
+    padding: 5px;
+    width: 100px;
+    height: 30px;
+    
+    
+}
+.saylani{
+    position: relative;
+    left: 520px ;
+    top:20px;
+    border:none;
+    font-size: 12px;
+    background-color: white;
+    
+}
+.saylani:hover{
+    background-color: royalblue;
+    color: white;
+    border-radius:50px;
+    border: 2px solid royalblue;
+    padding: 5px;
+    width: 100px;
+    height: 30px;
+    
+    
+}
+.future{
+    position: relative;
+    left: 540px ;
+    top:20px;
+    border:none;
+    font-size: 12px;
+    background-color: white;
+}
+.future:hover{
+    background-color: royalblue;
+    color: white;
+    border-radius:50px;
+    border: 2px solid royalblue;
+    padding: 5px;
+    width: 100px;
+    height: 30px;
+    
+    
+}
+.media{
+    position: relative;
+    left: 560px ;
+    top:20px;
+    border:none;
+    font-size: 12px;
+    background-color: white;
+}
+.media:hover{
+    background-color: royalblue;
+    color: white;
+    border-radius:50px;
+    border: 2px solid royalblue;
+    padding: 5px;
+    width: 100px;
+    height: 30px;
+    
+    
+}
+.news{
+    position: relative;
+    left: 580px ;
+    top:20px;
+    border:none;
+    font-size: 12px;
+    background-color: white;
+}
+.news:hover{
+    background-color: royalblue;
+    color: white;
+    border-radius:50px;
+    border: 2px solid royalblue;
+    padding: 5px;
+    width: 100px;
+    height: 30px;
+    
+    
+}
+.donation{
+    position: relative;
+    left: 600px ;
+    top:20px;
+    border:none;
+    font-size: 12px;
+    background-color: white;
+}
+.donation:hover{
+    background-color: royalblue;
+    color: white;
+    border-radius:50px;
+    border: 2px solid royalblue;
+    padding: 5px;
+    width: 100px;
+    height: 30px;
+    
+    
+}
+.contact{
+    position: relative;
+    left: 620px ;
+    top:20px;
+    border:none;
+    font-size: 12px;
+    background-color: white;
+    
+}
+.contact:hover{
+    background-color: royalblue;
+    color: white;
+    
+    border-radius:50px;
+    border: 2px solid royalblue;
+    padding: 5px;
+    width: 100px;
+    height: 30px;
+    
+    
+}
+.pic{
+    height: 500px;
+    background-color: black;
+    width: 1100px;
+    position: relative;
+    left:100px ;
+
+}
+
+
+
+.oneline{
+    height: 20px;
+    background-color: blue;
+    position: relative;
+    width: 950px;
+    left:180px ;
+    bottom: 10px;
+
+}
+
+.b1{
+    color: rgb(7, 250, 7);
+}
+
+.b2{
+    color: white;
+}
+.b3{
+    color: rgb(2, 2, 56);
+}
+.intro{
+    text-align: center;
+}
+.monthly{
+    width: 1030px;
+    height: 350px;
+    background-color: #0d6db7;
+    margin-left:135px ;
+    background-image: url(/static/media/upcoming_background.a669f19….png);
+
+
+
+}
+ .pic2{
+    position: relative;
+    left: 30px;
+    top: 30px;
+    
+} 
+
+
+
+ .dot1{
+    height: 120px;
+    width: 120px;
+    background-color: white;
+    border-radius: 80%;
+    display: inline-block;
+    position: relative;
+    left: 100px;
+    top: 90px;
+  } 
+  .pic3{
+    position: relative;
+    left: 30px;
+    top: 30px;}
+
+  .dot2{
+    height: 120px;
+    width: 120px;
+    background-color: white;
+    border-radius: 80%;
+    display: inline-block;
+    position: relative;
+    left: 200px;
+    top: 90px;
+  } 
+  .pic4{
+    position: relative;
+    left: 30px;
+    top: 30px;}
+  .dot3{
+    height: 120px;
+    width: 120px;
+    background-color: white;
+    border-radius: 80%;
+    display: inline-block;
+    position: relative;
+    left: 300px;
+    top: 90px;
+  }
+  .pic5{
+    position: relative;
+    left: 30px;
+    top: 30px;} 
+  .dot4{
+    height: 120px;
+    width: 120px;
+    background-color: white;
+    border-radius: 80%;
+    display: inline-block;
+    position: relative;
+    left: 400px;
+    top: 90px;
+  } 
+
+ .service1{
+    position: relative;
+
+  } 
+.food{
+    position: absolute;
+    top: 70px;
+    font-size: 40px;
+    left: 100px;
+    color: white;
+}
+.family{
+   position: absolute;
+    top: 70px;
+    font-size: 40px;
+    left:340px;
+    color: white;
+}
+.education{
+    position: absolute;
+    top:70px;
+    font-size: 40px;
+    left: 560px;
+    color: white;
+}
+.medical{
+    position: absolute;
+    top: 70px;
+    font-size: 40px;
+    left: 775px;
+    color: white;
+}
+.service2{
+    position: relative;
+
+  } 
+.food1{
+    position: absolute;
+    top: 140px;
+    
+    left: 150px;
+    color: white;
+}
+.family1{
+    position: absolute;
+    top: 140px;
+    
+    left: 335px;
+    color: white;
+}
+.education1{
+    position: absolute;
+    top: 140px;
+    
+    left: 580px;
+    color: white;
+}
+.medical1{
+    position: absolute;
+    top: 140px;
+    
+    left: 815px;
+    color: white;
+}
+.service3{
+    position: relative;
+
+  } 
+.food2{
+    position: absolute;
+    top: 160px;
+    
+    left: 145px;
+    color: white;
+}
+.family2{
+    position: absolute;
+    top: 160px;
+    
+    left: 360px;
+    color: white;
+}
+.education2{
+    position: absolute;
+    top: 160px;
+    
+    left: 581px;
+    color: white;
+}
+.medical2{
+    position: absolute;
+    top: 160px;
+    
+    left: 810px;
+    color: white;
+}
+.back{
+    background-color: whitesmoke;
+}
+
+.selection{
+    text-align: center;
+    font-size: 25px;
+}
+
+
+
+
+.b4{
+    color: royalblue;
+.
+}
+.b5{
+    color: rgb(7, 250, 7);
+}
+
+.selection1{
+    position: absolute;
+}
+.sadqahbox{
+    height: 100px;
+    width: 220px;
+    background-color: white;
+    display:inline-block;
+    margin-left: 250px;
+    margin-top: 30px;
+    /* border: 1px solid rgb(245, 233, 233);; */
+    box-shadow: 5px 10px rgb(241, 236, 236);
+}
+.sadqahpic{
+    position: relative;
+        left: 90px;
+        top: 15px;
+}
+.welfarebox{
+    height: 100px;
+    width: 220px;
+    background-color: white;
+    display:inline-block;
+    margin-left: 15px;
+    /* border: 1px solid rgb(245, 233, 233);; */
+    box-shadow: 5px 10px rgb(241, 236, 236);
+    }
+    .welfarepic{
+        position: relative;
+            left: 90px;
+            top: 15px;
+    }
+.medicalbox{
+    height: 100px;
+    width: 220px;
+    background-color: white;
+    display:inline-block;
+    margin-left: 15px;
+    /* border:1px solid rgb(245, 233, 233); */
+    box-shadow: 5px 10px rgb(241, 236, 236);
+    
+    
+}
+.medicalpic{
+    position: relative;
+        left: 90px;
+        top: 15px;
+}
+.p1{
+    padding-top: 15px;
+    padding-left: 60px;
+    font-size: 12px;
+    color: #0d0581;
+
+}
+.p2{
+    padding-top: 15px;
+    padding-left: 78px;
+    font-size: 12px;
+    color: #0d0581;
+
+}
+.p3{
+    padding-top: 15px;
+    padding-left: 83px;
+    font-size: 12px;
+    color: #0d0581;
+
+}
+
+
+
+.dastarkhwanbox{
+    height: 100px;
+    width: 220px;
+    background-color: white;
+    display:inline-block;
+    margin-left: 250px;
+    margin-top: 60px;
+    /* border: 1px solid rgb(245, 233, 233);; */
+    box-shadow: 5px 10px rgb(241, 236, 236);
+}
+.dastarkhwanpic{
+    position: relative;
+        left: 90px;
+        top: 15px;
+}
+.plantbox{
+    height: 100px;
+    width: 220px;
+    background-color: white;
+    display:inline-block;
+    margin-left: 15px;
+    /* border: 1px solid rgb(245, 233, 233);; */
+    box-shadow: 5px 10px rgb(241, 236, 236);
+    }
+    .plantpic{
+        position: relative;
+            left: 90px;
+            top: 15px;
+    }
+.educationbox{
+    height: 100px;
+    width: 220px;
+    background-color: white;
+    display:inline-block;
+    margin-left: 15px;
+    /* border:1px solid rgb(245, 233, 233); */
+    box-shadow: 5px 10px rgb(241, 236, 236);
+    
+    
+}
+.educationpic{
+    position: relative;
+        left: 90px;
+        top: 15px;
+}
+.p4{
+    padding-top: 15px;
+    padding-left: 60px;
+    font-size: 12px;
+    color: #0d0581;
+
+}
+.p5{
+    padding-top: 15px;
+    padding-left: 78px;
+    font-size: 12px;
+    color: #0d0581;
+
+}
+.p6{
+    padding-top: 15px;
+    padding-left: 77px;
+    font-size: 12px;
+    color: #0d0581;
+
+}
+
+.projects{
+    margin-top: 60px;
+}
+.mission{
+    margin-left: 170px;
+   font-size: 20px;
+    color:#0d0581 ;
+    
+
+}
+.events{
+    margin-left: 230px ;
+    color: #0d0581;
+    font-size: 20px;
+    
+}
+.project1box{
+    height: 40px;
+    width: 270px;
+    background-color: rgb(230, 227, 227);
+    display:inline-block;
+    margin-left: 170px;
+    margin-top: 30px;
+    /* border: 1px solid rgb(245, 233, 233);; */
+    
+    position: relative;
+    bottom: 55px;
+}
+.project1pic{
+    position: relative;
+        left: 20px;
+        top: 5px;
+}
+.p7{
+    padding-top: 5px;
+    padding-left: 30px;
+    font-size: 12px;
+    color: #0d0581;
+    display: inline-block;
+
+}
+
+.project2box{
+    height: 40px;
+    width: 270px;
+    background-color: rgb(230, 227, 227);
+    display:inline-block;
+    margin-left: 15px;
+    position: relative;
+    bottom: 55px;
+
+    }
+    .project2pic{
+        position: relative;
+            left: 20px;
+            top: 4px;
+    }
+
+    .p8{
+        padding-top: 5px;
+        padding-left: 30px;
+        font-size: 12px;
+        color: #0d0581;
+        display: inline-block;
+    
+    }
+
+
+    
+ .project3box{
+    height: 100px;
+    width: 220px;
+    background-color: white;
+    display:inline-block;
+    margin-left: 15px;
+    
+    
+    position: relative;
+    top: 30px;
+} 
+
+
+.p9{
+    padding-top: 15px;
+    padding-left: px;
+    font-size: 12px;
+    
+
+}
+.project4box{
+    height: 40px;
+    width: 270px;
+    background-color: rgb(230, 227, 227);
+    margin-left:170px;
+    position: relative;
+    bottom: 40px;
+    display: inline-block;
+    }
+    .project5box{
+        height: 40px;
+        width: 270px;
+        background-color: rgb(230, 227, 227);
+        display: inline-block;
+        margin-left: 15px;
+        position: relative;
+        bottom: 40px;
+     }
+     .image{
+        text-align: center;
+    font-size: 25px;
+    
+    
+     }
+     .saylani3{
+        text-align: center;
+     }
+
+     .imagebox1{
+        
+        height: 110px;
+        width: 200px;
+        background-color: black;
+        margin-left: 170px;
+        display: inline-block;
+
+     }
+     .imagebox2{
+        
+        height: 110px;
+        width: 200px;
+        background-color: black;
+        display: inline-block;
+
+     }
+     .imagebox3{
+        
+        height: 110px;
+        width: 200px;
+        background-color: black;
+        display: inline-block;
+
+     }
+     .imagebox4{
+        
+        height: 110px;
+        width: 200px;
+        background-color: black;
+        display: inline-block;
+
+     }
+     .imagebox5{
+        
+        height: 110px;
+        width: 200px;
+        background-color: black;
+        display: inline-block;
+
+     }
+     .footer-back{
+        margin-top: 100px; 
+        background-color: black;
+        height: 300px;
+     }
+     .footer-useful{
+        position: relative;
+        left: 540px;
+        top: 60px;
+        color: white;
+        }
+.footer-contact{
+    margin-left: 250px;
+}
+.footer-img{
+    position: relative;
+        left: 540px;
+        top: 60px;
+}
+.footer-fb{
+    position: relative;
+        left: 573px;
+        top:75px;
+
+}
+.footer-twit{
+    position: relative;
+        left: 580px;
+        top:75px;
+
+}
+.footer-insta{
+    position: relative;
+        left: 587px;
+        top:75px;
+
+}
+.footer-snap{
+    position: relative;
+        left: 594px;
+        top:75px;
+
+}
+.head{
+    color: white;
+    position: relative;
+    top: 30px;
+    left: 160px;
+    font-size: 13px;
+}
+.address{
+    color: white;
+    position: relative;
+    top: 20px;
+    left: 160px;
+    font-size: 13px;
+}
+.last{
+    height: 40px;
+    background-color: #0d6db7;
+    position: relative;
+    top: 50px;
+}
+.copy{
+    margin-left: 155px;
+    color: white;
+    padding-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
